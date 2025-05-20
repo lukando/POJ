@@ -1,0 +1,4 @@
+kot=cat
+pies=dog
+samochód=car
+drzewo=tree
